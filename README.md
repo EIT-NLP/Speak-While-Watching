@@ -28,7 +28,21 @@
 <sup>4</sup>Ocean University of China
 </div>
 
+<br>
 
-🚧 **Code Coming Soon**
+<div align="center">
+  <img src="assets/fig1.pdf" width="90%">
+</div>
 
+<br>
 
+<div align="center">
+This repository contains the <b>official code</b> for the paper<br>
+<i>“Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models”</i>.
+</div>
+
+<br>
+
+<div align="center">
+🚧 <b>Code Coming Soon</b>
+</div>
