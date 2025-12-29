@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/fig1.pdf" width="90%">
+  <img src="assets/fig1.png" width="90%">
 </div>
 
 <br>
