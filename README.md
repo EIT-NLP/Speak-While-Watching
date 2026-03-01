@@ -61,7 +61,6 @@ The figure compares three paradigms for video description:
 - One evaluation launcher: `eval.sh`
 - One dataset preparation script: `mani_data.py`
 
-Unused/legacy training scripts were removed.
 
 ## Directory
 
